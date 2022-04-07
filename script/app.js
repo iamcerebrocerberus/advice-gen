@@ -21,7 +21,7 @@ function setAdviceText() {
 
          //  console.log(response)
          adviceId.innerText = response.slip['id'];
-         adviceTxt.innerText = response.slip['advice'];
+         adviceTxt.innerText = `"${response.slip['advice']}"`;
        }
     } 
 }
