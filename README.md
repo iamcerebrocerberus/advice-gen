@@ -10,7 +10,7 @@ If you want to edit or play around the code in this project, you can edit the fo
 
 After editing the files, run the following commands in your CLI in order to compile and transpile the stylus and javascript file respectively.
 
-## Installing node dependancies
+## Installing dev dependancies
 `npm install`
 
 ## Compile Styl file to css file
